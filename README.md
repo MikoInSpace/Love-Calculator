@@ -12,10 +12,6 @@ The Love Calculator Python Program is a fun and interactive application that cal
 - Generates a random compatibility percentage.
 - Provides a fun and light-hearted way to check romantic compatibility.
 
-## Screenshots
-
-![Screenshot](screenshots/screenshot.png)
-
 ## Getting Started
 
 ### Prerequisites
